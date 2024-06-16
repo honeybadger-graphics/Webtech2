@@ -1,6 +1,12 @@
-# Beadando2022
+# Beadando2024
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.5.
+
+# Commands to run:
+
+First: npm install
+Client: npm run start
+Backend: npm run start-backend
 
 ## Development server
 
